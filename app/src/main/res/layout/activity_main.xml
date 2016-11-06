@@ -24,8 +24,8 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         app:srcCompat="@drawable/ic_message_black_24dp"
-        android:id="@+id/imageView2"
-        android:layout_weight="1" />
+        android:layout_weight="1"
+        android:id="@+id/imageViewSMS" />
 
     <ImageView
         android:layout_width="80dp"
